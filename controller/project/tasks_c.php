@@ -53,3 +53,4 @@ if(Session::isLoggedIn()) {
 }
 
 $soup->render('project/page/tasks');
+?>

@@ -102,3 +102,4 @@ $fork->startBlockSet('body');
 
 $fork->endBlockSet();
 $fork->render('site/partial/page');
+?>

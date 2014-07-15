@@ -37,8 +37,8 @@ $fork->startBlockSet('body');
 </td>
 
 
-<?
+<?php
 
 $fork->endBlockSet();
 $fork->render('site/partial/page');
-
+?>

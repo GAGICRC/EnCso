@@ -577,3 +577,4 @@ if($action == 'create') {
 	$json = array('error' => 'Invalid action.');
 	exit(json_encode($json));
 }
+?>

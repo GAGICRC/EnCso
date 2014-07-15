@@ -40,13 +40,13 @@ $(document).ready(function(){
 	
 	$('#selStatus').val('<?= $task->getStatus() ?>');
 	
-	// $('#btnEditTask').click(function(){
-		// buildPost({
-			// 'processPage':'<?= Url::taskProcess($task->getID()) ?>',
-			// 'info': $('#frmEditItem').serialize(),
-			// 'buttonID':'#btnEditTask'
-		// });
-	// });
+	$('#btnEditTask').click(function(){
+	 buildPost({
+		 'processPage':'<?= Url::taskProcess($task->getID()) ?>',
+		 'info': $('#frmEditItem').serialize(),
+		 'buttonID':'#btnEditTask'
+	 });
+	});
 	
 	$("#task .editButton").click(function(){
 		$(this).hide();

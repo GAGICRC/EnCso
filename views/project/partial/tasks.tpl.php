@@ -155,3 +155,4 @@ if(!empty($tasks)) {
 
 $fork->endBlockSet();
 $fork->render('site/partial/panel');
+?>
