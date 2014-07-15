@@ -1,4 +1,4 @@
-PIPELINE
+EnCso
 Free, open-source software for crowdsourcing creative projects
 http://encso.gagicrc.com
 
@@ -38,7 +38,7 @@ Chris Howse - Developer
 Jackson Morgan - Developer
 National Science Foundation - Financial Support
 
-Pipeline makes use of many open-source software components and media assets, including:
+Pipeline /EnCso makes use of many open-source software components and media assets, including:
 
 Google Charts and Google Libraries
 http://code.google.com/apis/chart/
@@ -70,5 +70,5 @@ define('ENABLE_CHAT', true);
 
 LICENSE:
 
-Pipeline is open-source software released under the GNU General Public License (GPL), version 3.0.
+Pipeline/EnCso is open-source software released under the GNU General Public License (GPL), version 3.0.
 http://www.gnu.org/licenses/gpl-3.0.txt
