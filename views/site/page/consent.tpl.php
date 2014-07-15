@@ -2,7 +2,7 @@
 	$email = $SOUP->get('email');
 
 	$fork = $SOUP->fork();
-	$fork->set('pageTitle', 'Study Consent');
+	$fork->set('pageTitle', 'Consent');
 	$fork->set('headingURL', Url::consent());
 	$fork->startBlockSet('body');
 ?>
@@ -22,7 +22,7 @@ $(document).ready(function(){
 <td class="left">
 
 	<p>Welcome to <?= PIPELINE_NAME ?>!</p>
-	<p>We have created this software as part of a research study at <a href="http://www.cc.gatech.edu/">Georgia Tech</a> looking at how people collaborate online. To use this software, you must agree to be in the study.</p>
+	<p>This software has the intent to help people collaborate online to create crowdsourcing projects</p>
 	<p>First, <strong>please tell us how old you are</strong>.</p>
 
 	<div class="buttons">
