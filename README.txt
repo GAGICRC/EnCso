@@ -1,6 +1,6 @@
 PIPELINE
 Free, open-source software for crowdsourcing creative projects
-http://pipeline.cc.gatech.edu/
+http://encso.gagicrc.com
 
 
 REQUIREMENTS:
