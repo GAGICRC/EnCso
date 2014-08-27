@@ -2,6 +2,7 @@ EnCso
 Free, open-source software for crowdsourcing Entrepreneurship
 http://encso.gagicrc.com
 
+Help all entrepreneurs turn their ideas into business. Guide them in transforming their businesses into companies, and / or give them a boost to grow. Help companies create innovation networks. Working with multi-disciplinary teams.
 
 REQUIREMENTS:
 
