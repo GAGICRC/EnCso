@@ -1,5 +1,5 @@
 EnCso
-Free, open-source software for crowdsourcing creative projects
+Free, open-source software for crowdsourcing Entrepreneurship
 http://encso.gagicrc.com
 
 
