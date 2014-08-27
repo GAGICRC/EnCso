@@ -26,17 +26,13 @@ INSTALLATION:
 
 CREDITS:
 
-The Pipeline team, based at the Georgia Institute of Technology (Georgia Tech), includes:
+The EnCso team, based at OSIKMCN, includes:
 
-Kurt Luther - Project Lead
-Amy Bruckman - Project Co-Lead
-Casey Fiesler - Community Manager
-Joe Gonzales - Developer
-Boris de Souza - Developer
-Kevin Ziegler - Developer
-Chris Howse - Developer
-Jackson Morgan - Developer
-National Science Foundation - Financial Support
+Fernando Teodósio - Project Lead
+
+Hugo Rodrigues - Community Manager
+
+Frederico Dias - Developer
 
 Pipeline /EnCso makes use of many open-source software components and media assets, including:
 
